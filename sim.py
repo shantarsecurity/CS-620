@@ -1,6 +1,5 @@
 # ------------------------------------------------------------------
 # CS620 Operating System Principles for Information Assurance
-# Mark Moss: Saturday, September 13th, 2014
 # Programming Assignment 4 - Scheduling & Performance
 # ------------------------------------------------------------------
 import random
