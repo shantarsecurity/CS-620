@@ -1,6 +1,5 @@
 # ------------------------------------------------------------------
 # CS620 Operating System Principles for Information Assurance
-# Mark Moss: Friday, October 10, 2014
 # Programming Assignment 3 - Assembly Language Interpreter
 # ------------------------------------------------------------------
 import os
